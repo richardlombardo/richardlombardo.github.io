@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Harvard University.
+I'm a PhD student in Economics at Harvard University with research interests in applied microeconomics, labor economics, and econometrics. 
 
-My research is in applied microeconomics and econometrics, with a particular interest in how institutions make high-stakes decisions and how policy, information, and assignment systems can improve those decisions.
-
-Prior to beginning my PhD, I was a predoctoral fellow at the National Bureau of Economic Research. I received my undergraduate degree from Duke University.
+Prior to beginning my PhD, I worked as a Predoctoral Fellow at Harvard University and the National Bureau of Economic Research. I received my undergraduate degree from Duke University in 2023. 
