@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Hide author sidebar on phones */
+@media (max-width: 767px) {
+  .sidebar {
+    display: none !important;
+  }
+}
