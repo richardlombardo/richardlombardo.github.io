@@ -24,7 +24,7 @@ Revise and Resubmit, *The Review of Economic Studies*.
 target="_blank" rel="noopener noreferrer">NBER Working Paper #32369</a>.
 
 <a href="https://drive.google.com/file/d/1dqGwJIJFnZub7g3UBGqm1TPZzJcJN4nQ/view"
-   target="_blank" rel="noopener noreferrer">Unilateral-Veto Mechanisms</a>.
+   target="_blank" rel="noopener noreferrer">Unilateral-Veto Mechanisms</a>
 (with <a href="https://sites.google.com/view/jasonbaron/home"
 target="_blank" rel="noopener noreferrer">Jason Baron</a> and
 <a href="https://www.quitzevalenzuelastookey.com/about"
