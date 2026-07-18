@@ -67,7 +67,7 @@ target="_blank" rel="noopener noreferrer">Joseph Ryan</a>).
 The Impact of Maltreatment Investigations on Child Wellbeing
 (with <a href="https://sites.google.com/view/jasonbaron/home"
 target="_blank" rel="noopener noreferrer">Jason Baron</a> and
-<a href="https://fordschool.umich.edu/faculty/brian-jacob"
+<a href="https://www.brian-jacob.com/"
 target="_blank" rel="noopener noreferrer">Brian Jacob</a>).
 
 Predictive Risk Models and Child Welfare: Evidence from a Randomized Controlled Trial
