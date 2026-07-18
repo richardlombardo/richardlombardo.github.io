@@ -55,7 +55,7 @@ target="_blank" rel="noopener noreferrer">NBER Working Paper #32828</a>.
 ## Works in Progress
 
 Human Decisions and Machine Predictions in Multistage Systems
-(with <a href="https://www.ejasonbaron.com/"
+(with <a href="https://sites.google.com/view/jasonbaron/home"
 target="_blank" rel="noopener noreferrer">Jason Baron</a>,
 <a href="https://sites.google.com/site/willdobbie/"
 target="_blank" rel="noopener noreferrer">Will Dobbie</a>,
