@@ -11,7 +11,7 @@ classes: wide
 ## Working Papers
 
 <a href="https://drive.google.com/file/d/1aXQiwOq-lLbRoTad3YeMvhYxqZy6hxlp/view"
-   target="_blank" rel="noopener noreferrer">Reforming Rotations</a>.
+   target="_blank" rel="noopener noreferrer">Reforming Rotations</a>
 (with <a href="https://sites.google.com/view/jasonbaron/home"
 target="_blank" rel="noopener noreferrer">Jason Baron</a>,
 <a href="https://ssw.umich.edu/directories/contacts/tenure-track-faculty/joseph-p-ryan/joryan"
