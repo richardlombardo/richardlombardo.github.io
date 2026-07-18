@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Richard Lombardo"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 I am a PhD student in Economics at Harvard University.
 
-My research is in applied microeconomics and econometrics, with a particular
-interest in how institutions make high-stakes decisions affecting vulnerable
-individuals. 
+My research is in applied microeconomics and econometrics, with a particular interest in how institutions make high-stakes decisions and how policy, information, and assignment systems can improve those decisions.
+
+Prior to beginning my PhD, I was a predoctoral fellow at the National Bureau of Economic Research. I received my undergraduate degree from Duke University.
