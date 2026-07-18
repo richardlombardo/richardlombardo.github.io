@@ -8,8 +8,6 @@ classes: wide
 
 ## Working Papers
 
-## Working Papers
-
 <a href="https://drive.google.com/file/d/1aXQiwOq-lLbRoTad3YeMvhYxqZy6hxlp/view"
    target="_blank" rel="noopener noreferrer">Reforming Rotations</a>
 (with <a href="https://sites.google.com/view/jasonbaron/home"
@@ -22,6 +20,15 @@ target="_blank" rel="noopener noreferrer">Quitzé Valenzuela-Stookey</a>).
 Revise and Resubmit, *The Review of Economic Studies*.
 <a href="https://www.nber.org/papers/w32369"
 target="_blank" rel="noopener noreferrer">NBER Working Paper #32369</a>.
+
+<a href="https://drive.google.com/file/d/1uq37SvPws2auQOys3n1WGH2k_XMfMCsM/view?usp=sharing"
+   target="_blank" rel="noopener noreferrer">Rebuilding Livelihoods after a Natural Disaster: Turning to Entrepreneurship</a>
+(with <a href="https://www.cpc.unc.edu/people/fellows/elizabeth-frankenberg/"
+target="_blank" rel="noopener noreferrer">Elizabeth Frankenberg</a> and
+<a href="https://ipl.econ.duke.edu/dthomas/"
+target="_blank" rel="noopener noreferrer">Duncan Thomas</a>).
+<a href="https://www.nber.org/papers/w34839"
+target="_blank" rel="noopener noreferrer">NBER Working Paper #34839</a>.
 
 <a href="https://drive.google.com/file/d/1dqGwJIJFnZub7g3UBGqm1TPZzJcJN4nQ/view"
    target="_blank" rel="noopener noreferrer">Unilateral-Veto Mechanisms</a>
