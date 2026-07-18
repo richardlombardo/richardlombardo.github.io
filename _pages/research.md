@@ -32,4 +32,10 @@ target="_blank" rel="noopener noreferrer">Quitzé Valenzuela-Stookey</a>).
 <a href="https://www.nber.org/papers/w35383"
 target="_blank" rel="noopener noreferrer">NBER Working Paper #35383</a>.
 
+<a href="https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/27/2024/07/Automatic-policies-2024.07.21.pdf"
+   target="_blank" rel="noopener noreferrer">Smaller than We Thought? The Effect of Automatic Savings Policies</a>.
+(with James Choi, David Laibson, Jordan Cammarota, and John Beshears).
+<a href="https://www.nber.org/papers/w32828"
+   target="_blank" rel="noopener noreferrer">NBER Working Paper #32828</a>.
+
 ## Works in Progress
