@@ -2,15 +2,18 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
 ## Working Papers
 
+[Reforming Rotations](https://drive.google.com/file/d/1aXQiwOq-lLbRoTad3YeMvhYxqZy6hxlp/view). (with [Jason Baron](https://sites.google.com/view/jasonbaron/home), [Joseph Ryan](https://ssw.umich.edu/directories/contacts/tenure-track-faculty/joseph-p-ryan/joryan), Jeongsoo Suh, and [Quitzé Valenzuela-Stookey](https://www.quitzevalenzuelastookey.com/about)).
+
+
 ### Paper Title
 
-With [Coauthor Name](https://coauthorwebsite.com).
+With 
 
 **Revise and Resubmit, *Journal Name*.**
 
