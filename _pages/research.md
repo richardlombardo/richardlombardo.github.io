@@ -51,4 +51,27 @@ target="_blank" rel="noopener noreferrer">John Beshears</a>).
 <a href="https://www.nber.org/papers/w32828"
 target="_blank" rel="noopener noreferrer">NBER Working Paper #32828</a>.
 
+
 ## Works in Progress
+
+<strong>Human Decisions and Machine Predictions in Multistage Systems</strong>
+(with <a href="https://www.ejasonbaron.com/"
+target="_blank" rel="noopener noreferrer">Jason Baron</a>,
+<a href="https://sites.google.com/site/willdobbie/"
+target="_blank" rel="noopener noreferrer">Will Dobbie</a>,
+<a href="https://economics.mit.edu/people/faculty/ashesh-rambachan"
+target="_blank" rel="noopener noreferrer">Ashesh Rambachan</a>, and
+<a href="https://ssw.umich.edu/directories/contacts/tenure-track-faculty/joseph-p-ryan/joryan"
+target="_blank" rel="noopener noreferrer">Joseph Ryan</a>).
+
+<strong>The Impact of Maltreatment Investigations on Child Wellbeing</strong>
+(with <a href="https://www.ejasonbaron.com/"
+target="_blank" rel="noopener noreferrer">Jason Baron</a> and
+<a href="https://fordschool.umich.edu/faculty/brian-jacob"
+target="_blank" rel="noopener noreferrer">Brian Jacob</a>).
+
+<strong>Predictive Risk Models and Child Welfare: Evidence from a Randomized Controlled Trial</strong>
+(with <a href="https://www.ejasonbaron.com/"
+target="_blank" rel="noopener noreferrer">Jason Baron</a> and
+<a href="https://sites.google.com/view/arkadevghosh/home"
+target="_blank" rel="noopener noreferrer">Arkadev Ghosh</a>).
