@@ -39,6 +39,12 @@ target="_blank" rel="noopener noreferrer">Jason Baron</a>).
 <a href="https://www.nber.org/papers/w35383"
 target="_blank" rel="noopener noreferrer">NBER Working Paper #35383</a>.
 
+<a href="https://drive.google.com/file/d/1keam15gSpS7dde6mD5GebtpNfK_o2jji/view"
+   target="_blank" rel="noopener noreferrer">Predictive Risk Scores in the Public Sector: Experimental Evidence from Child-Protection Investigations </a> (with <a href="https://sites.google.com/view/jasonbaron/home"
+target="_blank" rel="noopener noreferrer">Jason Baron</a> and
+<a href="https://sites.google.com/view/arkadevghosh/home"
+target="_blank" rel="noopener noreferrer">Arkadev Ghosh</a>).
+
 <a href="https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/27/2024/07/Automatic-policies-2024.07.21.pdf"
    target="_blank" rel="noopener noreferrer">Smaller than We Thought? The Effect of Automatic Savings Policies</a>
 (with <a href="https://faculty.som.yale.edu/jameschoi/"
@@ -69,9 +75,3 @@ The Impact of Maltreatment Investigations on Child Wellbeing
 target="_blank" rel="noopener noreferrer">Jason Baron</a> and
 <a href="https://www.brian-jacob.com/"
 target="_blank" rel="noopener noreferrer">Brian Jacob</a>).
-
-Predictive Risk Models and Child Welfare: Evidence from a Randomized Controlled Trial
-(with <a href="https://sites.google.com/view/jasonbaron/home"
-target="_blank" rel="noopener noreferrer">Jason Baron</a> and
-<a href="https://sites.google.com/view/arkadevghosh/home"
-target="_blank" rel="noopener noreferrer">Arkadev Ghosh</a>).
