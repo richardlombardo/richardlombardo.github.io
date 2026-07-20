@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Richard Lombardo"
+title: 
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+# Richard Lombardo
 
 I am a PhD student in Economics at Harvard University with research interests in applied microeconomics, labor economics, and econometrics. 
 
