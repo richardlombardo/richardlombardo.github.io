@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Richard Lombardo"
 author_profile: true
 redirect_from:
   - /about/
