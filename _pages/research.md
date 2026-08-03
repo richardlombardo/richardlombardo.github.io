@@ -44,6 +44,8 @@ target="_blank" rel="noopener noreferrer">NBER Working Paper #35383</a>.
 target="_blank" rel="noopener noreferrer">Jason Baron</a> and
 <a href="https://sites.google.com/view/arkadevghosh/home"
 target="_blank" rel="noopener noreferrer">Arkadev Ghosh</a>).
+<a href="https://www.nber.org/papers/w35540"
+target="_blank" rel="noopener noreferrer">NBER Working Paper #35540</a>.
 
 <a href="https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/27/2024/07/Automatic-policies-2024.07.21.pdf"
    target="_blank" rel="noopener noreferrer">Smaller than We Thought? The Effect of Automatic Savings Policies</a>
