@@ -30,8 +30,8 @@ target="_blank" rel="noopener noreferrer">Duncan Thomas</a>).
 <a href="https://www.nber.org/papers/w34839"
 target="_blank" rel="noopener noreferrer">NBER Working Paper #34839</a>.
 
-<a href="https://drive.google.com/file/d/1dqGwJIJFnZub7g3UBGqm1TPZzJcJN4nQ/view"
-   target="_blank" rel="noopener noreferrer">Unilateral-Veto Mechanisms</a>
+<a href="https://drive.google.com/file/d/1ha6mTDLkv-3XSNJwlRJCa5ElexdJuW5h/view"
+   target="_blank" rel="noopener noreferrer">Strategic Simplicity in Multidimensional Screening</a>
 (with <a href="https://www.quitzevalenzuelastookey.com/about"
 target="_blank" rel="noopener noreferrer">Quitzé Valenzuela-Stookey</a> and
 <a href="https://sites.google.com/view/jasonbaron/home"
